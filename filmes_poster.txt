@@ -1,0 +1,77 @@
+Title: Aquaman
+Imagem: ./image/aquaman.jpg
+Release Year: 2018
+Format: DVD
+Stars: Jason Momma, Amber Heard, Patrick Wilson, Nicole Kidman,Willen Dafoe,Dolph Lungdren
+
+Title: Harry Potter e a Câmera Secreta
+Imagem: ./image/harry2.jpg
+Release Year: 2002
+Format: Blu-Ray
+Stars: Daniel Radcliffe, Rupert Grint, Emma Watson, Michael Gambon, Robbie Coltrane, Alan Rickman, Maggie Smith
+
+Title: Jumper
+Imagem: ./image/jumper.jpg
+Release Year: 2008
+Format: VHS
+Stars: Hayden Christensen, Jamie Bell, Samuel L. Jackson, Rachel Bilson, Diane Lane, Michael Rooker, Max Thieriot
+
+Title: Pixels
+Imagem: ./image/pixels.jpg
+Release Year: 2015
+Format: DVD
+Stars: Adam Sandler, Kevin James, Michelle Monaghan, Peter Dinklage, Josh Gad, Brian Cox
+
+Title: A Batalha de Riddick
+Imagem: ./image/riddick.jpg
+Release Year: 2004
+Format: DVD
+Stars: Vin Diesel, Karl Urban, Alexa Davalos, Thandie NewTon, Keith David
+
+Title: Riddick 3
+Imagem: ./image/riddick3.jpg
+Release Year: 2013
+Format: DVD
+Stars: Vin Diesel, Kate Sackoff, Karl Urban, Alexa Davalos, Thandie NewTon, Keith David
+
+Title: Sonic: O Filme 
+Imagem: ./image/sonic.jpg
+Release Year: 2020
+Format: VHS
+Stars: James Marsden, Ben Schwartz, Tika Sumpter, Jim Carrey
+
+Title: Sonic: O Filme 
+Imagem: ./image/sonic2.jpg
+Release Year: 2020
+Format: Blu-Ray
+Stars: James Marsden, Ben Schwartz, Tika Sumpter, Jim Carrey
+
+Title: Homem-Aranha: De Volta ao Lar 
+Imagem: ./image/spider-man.jpg
+Release Year: 2017
+Format: Blu-Ray
+Stars: Tom Holland, Michael Keaton, Jon Favreau, Zendaya, Donald Glover, Jacob Batalon, Laura Harrier, Robert Downey Jr.
+
+Title: Venom
+Imagem: ./image/venom.jpg
+Release Year: 2018
+Format: Blu-Ray
+Stars: Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze, Reid Scott
+
+Title: Vida
+Imagem: ./image/vida.jpg
+Release Year: 2017
+Format: Blu-Ray
+Stars: Jake Gyllenhaal, Rebecca Ferguson, Ryan Reynolds, Hiroyuki Sanada, Ariyon Bakare, Olga Dihovichnaya
+
+Title: Vingadores: Ultimato
+Imagem: ./image/vingador.jpg
+Release Year: 2019
+Format: Blu-Ray
+Stars: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira
+
+Title: Warcraft - O Primeiro Encontro de Dois Mundos
+Imagem: ./image/warcraft.jpg
+Release Year: 2016
+Format: Blu-Ray
+Stars: Travis Fimmel, Dominic Cooper, Dylan Schombing, Ben Foster, Ben Schnetzer, Ruth Negga, Toby Kebbell,Rob Kazinsky
